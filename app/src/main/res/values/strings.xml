@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CurrencyRatesLab</string>
+    <string name="hint_filter">Enter currency code (e.g. EUR)</string>
+    <string name="btn_load">Load Rates</string>
+    <string name="base_currency_label">Base Currency: USD</string>
+    <string name="toast_loading">Loading data...</string>
+    <string name="toast_error">Error loading data!</string>
 </resources>
